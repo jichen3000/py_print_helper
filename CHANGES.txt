@@ -1,0 +1,9 @@
+Changes
+-------
+
+1.0.0 (2016-11-20)
+~~~~
+
+Initialized it, actually seperating from package minitest.
+Changed print for compatibility.
+Tested on 2.7.10 and 3.5.1.

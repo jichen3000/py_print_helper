@@ -1,0 +1,17 @@
+*\~
+*.*\~
+*.bak
+*.dep
+*.zo
+*.pyc
+.DS_Store
+.project
+.pydevproject
+*.fasl
+\#*\#
+*.log
+*.dataset
+build
+dist
+.tags*
+__pycache__
